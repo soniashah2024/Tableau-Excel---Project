@@ -1,48 +1,55 @@
-# soniashah24
-<div align="center"> <h1 align="center"> i am an Aspiring Data Analyst 👋 </h1> </div>
-<b> My name is Sonia Shah.I am an aspiring Data Analyst.
+This Project is to build Relationship between Excel Sheets, analyse and develop Visualisation
 
-<p></p>
-<div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
+Introduction: Tableau is a powerful data visualization tool widely used for data analysis and business intelligence purposes. Its intuitive interface and robust features make it a preferred choice for professionals across various industries.
 
-<b>I have experience using these data analysis tools.<b>
-<p align="center">
-<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a>
+Key Features:
 
-</p>
+1.Data Connection: Tableau connects to various data sources including databases, spreadsheets, cloud services, and more. It supports live connections as well as extracts for faster processing.
 
-<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
+2.Visualizations: Tableau offers a wide range of visualization options such as bar charts, line graphs, scatter plots, maps, and more. Users can customize visualizations with ease, adjusting colors, labels, and formatting to suit their needs.
 
-<b>I have also experience using these data visualization tools.<b>
+3.Dashboard Creation: Dashboards in Tableau allow users to combine multiple visualizations into a single interactive interface. Users can add filters, parameters, and actions to enhance interactivity and facilitate deeper analysis.
 
-<p align="center">
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
-</p>
+4.Calculations and Formulas: Tableau enables users to create calculated fields using formulas and functions. These calculations can be applied to data directly within Tableau, offering flexibility in analysis.
 
-<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
-<b>Lets connect</b>
-<p align="center">
+5.Mapping Capabilities: With Tableau, users can create dynamic maps to visualize spatial data. It supports various map layers, geocoding, and custom territories for detailed geographical analysis. Data Blending:
 
-<a href="">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+6.Tableau allows users to blend data from multiple sources to uncover insights that may not be apparent when analyzing individual datasets. This feature facilitates holistic analysis and correlation discovery.
 
-<a href="">
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
-</a>
+7.Collaboration and Sharing: Tableau provides options for sharing visualizations and dashboards with colleagues and stakeholders. Users can publish workbooks to Tableau Server or Tableau Online for centralized access and collaboration.
 
-<a href="mailto:">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
-</a>
+8.Integration with Other Tools: Tableau integrates seamlessly with other data analysis and BI tools such as R, Python, and MATLAB. This interoperability enhances Tableau's capabilities and extends its functionality.
 
-</p>
+Usage Guidelines: Data Preparation: Ensure data is clean, organized, and structured appropriately before importing into Tableau. Address any data quality issues or inconsistencies to ensure accurate analysis results.
 
+Tableau is widely used for business intelligence and analytics purposes, allowing organizations to gain insights from their data and make informed decisions.
 
+Users can create interactive dashboards and reports to analyze key performance indicators (KPIs), track business metrics, and identify trends and patterns.
+
+Tableau facilitates data exploration and discovery by providing intuitive tools for visualizing and interacting with data.
+
+Users can explore datasets from multiple angles, uncover hidden insights, and generate hypotheses for further analysis.
+
+Tableau is used extensively in sales and marketing departments to analyze customer behavior, track sales performance, and measure marketing campaign effectiveness.
+
+Visualizations such as sales pipelines, customer segmentation charts, and marketing attribution models help organizations optimize their sales and marketing strategies.
+
+Tableau enables finance professionals to create dynamic financial reports, analyze financial data, and monitor key financial metrics in real-time.
+
+Users can visualize revenue trends, expense patterns, budget vs. actual performance, and other financial indicators to support financial planning and decision-making.
+
+Tableau dashboards are used for monitoring operational performance across various industries, including manufacturing, healthcare, and logistics.
+
+Real-time operational dashboards help organizations track production metrics, monitor equipment performance, and identify bottlenecks or inefficiencies in processes.
+
+Tableau's mapping capabilities are utilized for geospatial analysis and mapping applications.
+
+Users can create maps to visualize geographic data, analyze regional trends, and perform spatial analysis for location-based decision-making.
+
+3.1StomachCancer 
+In the healthcare industry, Tableau is used for visualizing patient data, clinical outcomes, and healthcare performance metrics.
+
+Healthcare organizations leverage Tableau to track disease trends, monitor patient outcomes, and improve healthcare delivery processes.
+
+ 
+My Profile Tableau Link [https://public.tableau.com/app/profile/sonia.shah7779/vizzes]
