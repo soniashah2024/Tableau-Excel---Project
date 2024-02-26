@@ -37,6 +37,7 @@ Visualizations such as sales pipelines, customer segmentation charts, and market
 Tableau enables finance professionals to create dynamic financial reports, analyze financial data, and monitor key financial metrics in real-time.
 
 Users can visualize revenue trends, expense patterns, budget vs. actual performance, and other financial indicators to support financial planning and decision-making.
+![image](https://github.com/soniashah2024/Tableau-Excel---Project/assets/156097446/ed701823-ac1c-4b76-b819-de015513a466)
 
 Tableau dashboards are used for monitoring operational performance across various industries, including manufacturing, healthcare, and logistics.
 
@@ -50,6 +51,7 @@ Users can create maps to visualize geographic data, analyze regional trends, and
 In the healthcare industry, Tableau is used for visualizing patient data, clinical outcomes, and healthcare performance metrics.
 
 Healthcare organizations leverage Tableau to track disease trends, monitor patient outcomes, and improve healthcare delivery processes.
+![image](https://github.com/soniashah2024/Tableau-Excel---Project/assets/156097446/ed4bf17e-7846-45a6-b647-06be29f95428)
 
  
 My Profile Tableau Link [https://public.tableau.com/app/profile/sonia.shah7779/vizzes]
